@@ -1,0 +1,41 @@
+
+.navbar{
+    display: flex;
+    padding: 0 15px;
+}
+.navbar .logo{
+    color: #fff;
+    font-size: 25px;
+    width: 50%;
+}
+
+.navbar .items {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-top: 20px;
+    width: 50%;
+  }
+
+  .navbar .items .item {
+    padding: 20px;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+  }
+
+  @media (max-width: 768px) {
+      .navbar .logo{
+          font-size: 20px;
+      }
+      .navbar .items .item{
+          font-size: 30px;
+          padding-top: 12px;
+      }
+  }
+
+/* .navbar .items i:nth-child(1){
+    padding-right: 20px;
+}
+.navbar .items i:nth-child(1){
+    padding-right: 20px;
+} */
