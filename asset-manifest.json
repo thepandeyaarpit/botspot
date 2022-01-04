@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/botspot/static/css/main.904107a5.css",
+    "main.js": "/botspot/static/js/main.6ee5d50c.js",
+    "static/js/787.40c14546.chunk.js": "/botspot/static/js/787.40c14546.chunk.js",
+    "static/media/logo.svg": "/botspot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/botspot/index.html",
+    "main.904107a5.css.map": "/botspot/static/css/main.904107a5.css.map",
+    "main.6ee5d50c.js.map": "/botspot/static/js/main.6ee5d50c.js.map",
+    "787.40c14546.chunk.js.map": "/botspot/static/js/787.40c14546.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.904107a5.css",
+    "static/js/main.6ee5d50c.js"
+  ]
+}
